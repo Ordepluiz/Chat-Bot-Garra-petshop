@@ -1,0 +1,1 @@
+O chat bot está localizado no canto inferior direito da página inicial do site. Ele foi desenvolvido para responder perguntas comuns dos clientes, verificar disponibilidades de produtos e facilitar o agendamento de serviços oferecidos pelo PetShop Garra.
